@@ -1,0 +1,31 @@
+============================================================
+Deep Learning Tactical Asset Allocation
+============================================================
+
+1. Preparing data...
+INFO:__main__:Fetching data from 2022-01-01 to 2024-01-01
+[*********************100%***********************]...
+INFO:__main__:Data prepared: XXX days, XXX features
+
+2. Training model...
+Epoch 1/20...
+...
+Training complete
+
+3. Running backtest...
+
+============================================================
+TAA Strategy Results
+============================================================
+Total Return:      XX.XX%
+Annualized Return: XX.XX%
+Volatility:        XX.XX%
+Sharpe Ratio:      X.XXXX
+Max Drawdown:      XX.XX%
+Sortino Ratio:     X.XXXX
+============================================================
+
+============================================================
+Equal Weight Benchmark
+============================================================
+...

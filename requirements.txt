@@ -1,0 +1,29 @@
+# Core dependencies
+numpy==2.2.4
+pandas==2.2.3
+pandas-datareader==0.10.0
+yfinance==0.2.54
+scipy==1.15.2
+scikit-learn==1.6.1
+
+# Deep Learning
+tensorflow==2.20.0
+
+# Data processing
+statsmodels==0.14.4
+pytz==2026.1
+python-dateutil==2.9.0
+tzdata==2025.3
+
+# Visualization
+matplotlib==3.10.1
+seaborn==0.13.2
+
+# Utilities
+tqdm==4.67.1
+joblib==1.4.2
+requests==2.32.3
+beautifulsoup4==4.13.3
+
+# FRED API
+fredapi==0.5.2
