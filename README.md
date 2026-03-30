@@ -55,8 +55,10 @@ Tactical-Assets-Allocation/
    cd "Tactical Assets Allocation - DeepLearning Model"
    ```
 
-2. **Install dependencies:**
+2. **Create and Activate Virtual Environment:**
    ```bash
+   python3 -m venv DeepLTAA-env
+   source DeepLTAA-env/bin/activate  # On Windows use: DeepLTAA-env\Scripts\activate
    pip install -r requirements.txt
    ```
 
